@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SumTowNum</string>
+    <string name="inpa">Input num a:</string>
+    <string name="inpb">Input num b:</string>
+    <string name="sum">Sum</string>
+    <string name="clear">Clear</string>
+</resources>
